@@ -6,5 +6,5 @@ In this work, a detailed mathematical model is built for the dynamics of human P
 
 Microglial-directed motility involves a complex family of intracellular signalling pathways that are mainly controlled by P2Y-mediated cytosolic calcium (Ca<sup>2+</sup>) signalling and activation of PI3K/Akt pathway. Another objective of this research is to develop mathematical models for these two complex intracellular events and investigate the interconnecting role of PI3K pathway to Ca<sup>2+</sup>. This part of the project is in progress and the source codes will be added in the near future.
 
-**Licence:** Note that the code can be changed and reused as long as you keep the copyright inside and at the beginning of source files in the source directory unchanged. If this research is used in a research that ends up with a publication, it should be cited as the reference given in each corresponding directory.
+**Licence:** Note that the code can be changed and reused as long as you keep the copyright inside and at the beginning of source files in the source directory unchanged. If this project is used in a research that ends up with a publication, it should be cited as the reference given under every corresponding directory.
 
