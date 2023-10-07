@@ -18,3 +18,10 @@ This model has several files, among the most important of which are explained be
 ## 2. PI<sub>3</sub>K/Akt Model
 It builds a new PI<sub>3</sub>K/AKT model that uses a time dependant [Ca<sup>2+</sup>]<sub>i</sub> profile to activate the PI<sub>3</sub>K/pAkt via CaMKII. This model supports that calcium influx via P2YR and P2XR can justify the experimentally observed twin peaks in the pAkt data.
 
+This model has several files, among the most important of which are described below:
+
+1. The experimental data used can be found under the directory _data_.
+2. The reaction network for PI3K/Akt model locates in the file _reaction_network_pi3k.m_.
+4. The fitting process which includes a mathematical optimisation problem using an evolutionary strategy for numerical simulation of the model differential equations can be found in several files including _cmaes.m_, _fhngen_pi3k_fit.m_, _loss_function.m_ and _main_pi3k_fit.m_.
+5. The model predictions are implemented in the file _model_predictions.m_.
+
